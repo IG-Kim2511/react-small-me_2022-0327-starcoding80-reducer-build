@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-small-me_2022-0327-starcoding80-reducer-build/static/css/main.c9745797.css",
+    "main.js": "/react-small-me_2022-0327-starcoding80-reducer-build/static/js/main.687e87e2.js",
+    "index.html": "/react-small-me_2022-0327-starcoding80-reducer-build/index.html",
+    "main.c9745797.css.map": "/react-small-me_2022-0327-starcoding80-reducer-build/static/css/main.c9745797.css.map",
+    "main.687e87e2.js.map": "/react-small-me_2022-0327-starcoding80-reducer-build/static/js/main.687e87e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9745797.css",
+    "static/js/main.687e87e2.js"
+  ]
+}
